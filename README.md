@@ -1,8 +1,4 @@
 # TowerGame
-## Testing
-
-https://hcarriere.github.io/tower-game-public/
-
 ## About
 
 - Waves are triggered automatically, but you can trigger them early (with cooldown)
@@ -29,12 +25,15 @@ https://hcarriere.github.io/tower-game-public/
 - [x] remove buildings
 - [x] animate some buildings
 - [x] enemy attack, tower life
-- [ ] more buildings (extractor, processor, energy?, tower enhancer)
-- [ ] enemy wave system
-- [ ] clouds, birds
+- [x] optimise engine (latency on firefox when buildings)
+- [x] enemy wave system
+- [x] clouds, birds
+- [ ] more buildings (extractor, smelter, energy?, tower enhancer)
 - [ ] mobile support
 - [ ] better UI
 - [ ] look and feel (sparks, vibrations, wiggling, etc)
+- [ ] spell discovery
+- [ ] deltaTime
 - [ ] more spells
 - [ ] more buildings
 - [ ] saves
