@@ -27,19 +27,26 @@
 - [x] enemy attack, tower life
 - [x] optimise engine (latency on firefox when buildings)
 - [x] enemy wave system
-- [x] clouds, birds
-- [ ] more buildings (extractor, smelter, energy?, tower enhancer)
-- [ ] mobile support
+- [x] clouds
+- [x] simple mobile support
+- [ ] more buildings (extractor, smelter, energy?, tower enhancer, bones)
+- [ ] things in ground (stone, upgrades)
+- [ ] spell discovery: artefacts mining
 - [ ] better UI
 - [ ] look and feel (sparks, vibrations, wiggling, etc)
-- [ ] spell discovery
 - [ ] deltaTime
+- [ ] spell element system
 - [ ] more spells
 - [ ] more buildings
+- [ ] draw good tower
+- [ ] bloodstains
 - [ ] saves
 - [ ] UI sounds
 - [ ] game sounds
 - [ ] music
-- [ ] employees system
+- [ ] employees system ?
 - [ ] electron test
 - [ ] setup testing : try instanciating creating all content, 
+
+
+5 premiere minutes : pas de mort
