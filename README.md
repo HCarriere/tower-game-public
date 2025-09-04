@@ -29,12 +29,12 @@
 - [x] enemy wave system
 - [x] clouds
 - [x] simple mobile support
+- [x] deltaTime
 - [ ] more buildings (extractor, smelter, energy?, tower enhancer, bones)
 - [ ] things in ground (stone, upgrades)
 - [ ] spell discovery: artefacts mining
 - [ ] better UI
 - [ ] look and feel (sparks, vibrations, wiggling, etc)
-- [ ] deltaTime
 - [ ] spell element system
 - [ ] more spells
 - [ ] more buildings
