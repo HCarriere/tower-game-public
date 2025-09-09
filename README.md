@@ -36,6 +36,7 @@
 - [x] Modifiers spells
 - [x] more buildings (tower heals, bones)
 - [ ] spell discovery: artefacts mining
+- [ ] buildings needs to be connected to tower to work
 - [ ] more buildings (storage)
 - [ ] revoir design buildings (pas de fond foreuse, inspi fallout shelter)
 - [ ] more enemies, boss
@@ -43,6 +44,7 @@
 - [ ] better UI
 - [ ] look and feel (sparks, vibrations, wiggling, etc)
 - [ ] bloodstains
+- [ ] death
 - [ ] saves
 - [ ] Balance
 - [ ] UI sounds
