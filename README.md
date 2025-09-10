@@ -35,9 +35,11 @@
 - [x] spell element system
 - [x] Modifiers spells
 - [x] more buildings (tower heals, bones)
-- [ ] spell discovery: artefacts mining
+- [x] spell discovery: artefacts mining
+- [x] "ui" particle effect
 - [ ] buildings needs to be connected to tower to work
-- [ ] more buildings (storage)
+- [ ] pause
+- [ ] more buildings (storage, limit expander, range expander)
 - [ ] revoir design buildings (pas de fond foreuse, inspi fallout shelter)
 - [ ] more enemies, boss
 - [ ] draw good tower
@@ -52,28 +54,31 @@
 - [ ] music
 - [ ] employees system ?
 - [ ] electron test
+- [ ] pwa
 
 ### Content Backlog
 
 - spells
     Area spells
     Invocation spells
+    Laser spells
 
 - Modifiers
     - Charm : on hit, 15% chance to charm enemies
     - Lava pool : on floor hit, create a lava pool on the floor
     - Target inverter: seeks the furthest enemy instead of the nearest
     - Elemental : change element for this one (for each element)
+    - zigzag : makes the projectile zigzag, but -- ?
 
     
 - Buildings
     - Storage : base storage is limited, so increase it with storage
     - bones collector
     - something to increase range
-    - tower maintenance (heal tower vs bones)
     - limits expander
     - curse repeller (need to implement cursed rock)
     - spy : tells you the next waveS composition
+    - market : buy and sell ?
 
 - Enemies
     - 1 boss : engine de siège
