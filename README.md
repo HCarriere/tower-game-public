@@ -37,17 +37,15 @@
 - [x] more buildings (tower heals, bones)
 - [x] spell discovery: artefacts mining
 - [x] "ui" particle effect
-- [ ] buildings needs to be connected to tower to work
-- [ ] pause
-- [ ] more buildings (storage, limit expander, range expander)
-- [ ] revoir design buildings (pas de fond foreuse, inspi fallout shelter)
+- [x] revoir design buildings (pas de fond foreuse, inspi fallout shelter)
+- [x] pause
+- [x] more buildings (storage, limit expander, range expander)
 - [ ] more enemies, boss
+- [ ] more spells, modifiers
 - [ ] draw good tower
-- [ ] better UI
-- [ ] look and feel (sparks, vibrations, wiggling, etc)
-- [ ] bloodstains
-- [ ] death
 - [ ] saves
+- [ ] death
+- [ ] look and feel (sparks, vibrations, wiggling, etc)
 - [ ] Balance
 - [ ] UI sounds
 - [ ] game sounds
@@ -73,14 +71,15 @@
     
 - Buildings
     - Storage : base storage is limited, so increase it with storage
-    - bones collector
     - something to increase range
     - limits expander
     - curse repeller (need to implement cursed rock)
     - spy : tells you the next waveS composition
     - market : buy and sell ?
+    - buildings needs to be connected to tower to work
 
 - Enemies
+    - bloodstains on death
     - 1 boss : engine de siège
     - Archer
     - Elementaire cac (feu, glace, electricité)
