@@ -40,9 +40,10 @@
 - [x] revoir design buildings (pas de fond foreuse, inspi fallout shelter)
 - [x] pause
 - [x] more buildings (storage, limit expander, range expander)
-- [ ] more enemies, boss
-- [ ] more spells, modifiers
-- [ ] draw good tower
+- [x] rework spells classes, more spells, modifiers
+- [x] more enemies, boss
+- [x] draw good tower
+- [ ] better wave system
 - [ ] saves
 - [ ] death
 - [ ] look and feel (sparks, vibrations, wiggling, etc)
@@ -71,26 +72,21 @@
     
 - Buildings
     - Storage : base storage is limited, so increase it with storage
-    - something to increase range
-    - limits expander
     - curse repeller (need to implement cursed rock)
     - spy : tells you the next waveS composition
     - market : buy and sell ?
+    - JIRA manager : all spells are random but faster (Spells TAGS ?)
     - buildings needs to be connected to tower to work
+    - more prod combination
 
 - Enemies
     - bloodstains on death
-    - 1 boss : engine de siège
     - Archer
     - Elementaire cac (feu, glace, electricité)
     - Elementaire distance (feu, glace, electricité)
-    - Chevalier cheval
-    - Prêtre qui soigne
-    - Prêtre qui protège
-    - Roublard : ne peut e faire cibléer qui si il reste que des roublards
     - Magicien (vol)
     - fantome (vol)
-    -
+    
 
 - Towers
     - more skins, + success
