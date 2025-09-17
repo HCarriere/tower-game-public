@@ -43,8 +43,9 @@
 - [x] rework spells classes, more spells, modifiers
 - [x] more enemies, boss
 - [x] draw good tower
+- [x] homepage + menu  (angular)
+- [x] saves
 - [ ] better wave system
-- [ ] saves
 - [ ] rework discovery : discover only spells and modifiers
 - [ ] rework discovery : buildings are discovered in a "tree" mode, by obtaining a resource / tech
 - [ ] rework discovery : 1 tab spell, 1 tab modifiers, 1 tab per "tier" discovered
